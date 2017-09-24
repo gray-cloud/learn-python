@@ -1,3 +1,3 @@
 # learn-python
-Python学习记录
+Python学习笔记
 2017-09-24
